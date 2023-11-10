@@ -1,6 +1,6 @@
 ## Сервис для чтения книг. Проект по SQL
 
-[ipynb](https://github.com/lenkaoo/Portfolio/blob/main/Telecom%20project/telecom_finish.ipynb)
+[ipynb](https://github.com/lenkaoo/Portfolio/blob/main/Service%20reading%20books/Book_sql.ipynb)
 
 ### Описание проекта
 Анализ базы данных сервиса для чтения книг по подписке.
