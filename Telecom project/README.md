@@ -1,8 +1,9 @@
 ## Телеком — Поиск клиента с неоптимальными тарифами
 
 [ipynb](https://github.com/lenkaoo/Portfolio/blob/main/Telecom%20project/telecom_finish.ipynb)
-[html](file:///C:/Users/Elena/Downloads/telecom_finish.html)
-[ipynb](file:///C:/Users/Elena/Downloads/telecom_finish.html)
+
+[HTML](file:///C:/Users/Elena/Downloads/telecom_finish.html)
+
 ### Описание проекта
 Проект предполагает анализ данных о текущих тарифных планах клиентов, их потреблении услуг и сравнение этих данных с доступными тарифными планами провайдера виртуальной телефонии «Нупозвони». На основе этого анализа выявлены клиенты, которым можно предложить более выгодные тарифные планы.
 
